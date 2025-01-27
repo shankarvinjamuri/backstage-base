@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: shankarvinjamuri
+  description: A user entity for Shankar Vinjamuri
+  tags:
+    - admin
+    - director    
+spec:
+  profile:
+    displayName: Shankar Vinjamuri
+    email: shankar.vinjamuri@anycompany.com
+  memberOf:    
+    - platform-team
