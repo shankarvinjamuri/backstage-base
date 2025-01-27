@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: platform-team
+  description: Platform Engineering Team
+  tags:
+    - devsecops
+    - cloud-architecture
+    - cloud-platform
+    - sre
+  links:
+    - url: http://www.anycompany.com/
+      title: Website
+spec:
+  type: organization
+  profile:
+    displayName: Platform Engineering Team
+    email: platform-engineering@anycompany.com
+  children: []
