@@ -13,6 +13,7 @@ spec:
   memberOf:    
     - platform-team
 
+apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: kalpakgandhi76
