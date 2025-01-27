@@ -12,3 +12,17 @@ spec:
     email: shankar.vinjamuri@anycompany.com
   memberOf:    
     - platform-team
+
+kind: User
+metadata:
+  name: kalpakgandhi76
+  description: A user entity for Kalpak Gandhi
+  tags:
+    - admin
+    - developer
+spec:
+  profile:
+    displayName: Kalpak Gandhi
+    email: kalpakgandhi@anycompany.com
+  memberOf:
+    - platform-team
