@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: Base
+  description: Base Platform
+spec:
+  owner: platform-team 
